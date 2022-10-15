@@ -1,0 +1,5 @@
+ console.log(typeof "place")
+console.log(typeof 25)
+console.log(typeof false)
+console.log(typeof null)
+console.log(typeof variable)
